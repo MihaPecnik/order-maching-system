@@ -1,6 +1,7 @@
 # order-maching-system
 
-TODO : * banchmarks, tests
-       * Run/Deploy
-       * Documentation, comments
-       * Automated CI
+TODO : 
+* banchmarks
+* Run/Deploy
+* Documentation
+* Automated CI
